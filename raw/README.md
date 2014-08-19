@@ -1,5 +1,5 @@
-### 컴파일
+### Compile
 javac -cp "./lib/*:." Main.java Test.java
 
-### 런
+### Run
 java -cp "./lib/*:." Main
